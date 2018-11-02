@@ -1,1 +1,2 @@
+this is a same test
 this is a sample check
