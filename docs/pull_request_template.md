@@ -1,1 +1,3 @@
-[] test pylint score
+- [ ] Finish changes
+- [ ] Push commits to GitHub
+- [ ] Open a pull request
